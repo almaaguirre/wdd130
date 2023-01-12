@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../../VISUAL STUDIO CODE"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "aboutme"
+  }
+}
