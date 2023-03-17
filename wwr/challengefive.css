@@ -1,0 +1,30 @@
+footer img {
+    margin: 70px;
+    color: grey;
+    background-color: rgb(113,113,110);
+    width: 20%;
+    border-radius: 50%;
+    border-width: 20%;
+    border: 10 px solid grey;
+    
+    
+}
+
+footer {
+    background-color: rgb(113,113,110);
+    border: 40px;
+}
+
+body {
+    border: 50px;
+    padding: 50px;
+    width: 120%;
+    
+}
+
+main img {
+    
+}
+
+
+
