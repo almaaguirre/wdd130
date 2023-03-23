@@ -95,7 +95,7 @@ footer {
     background-color: #e2ecdd;
     color: #d9c2a3;
     padding: 25px 50px;
-    margin-top: 200px;
+    margin-top: 20px;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -244,10 +244,10 @@ nav {
         height: auto;
     }
 
-    nav,
-    footer {
-        flex-direction: column;
-    }
+    /* nav, */
+    /* footer { */
+        /* flex-direction: column; */
+    /* } */
 
     nav a {
         display: block;
