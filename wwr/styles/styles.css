@@ -28,7 +28,7 @@ main section {
 
 #background {
     height: 725px;
-    background-color: #42b67c;
+    background-color: #fcfcfc;
 }
 
 body {
@@ -169,6 +169,7 @@ footer .social img {
     margin: 200px 0;
     grid-column: 2/4;
     grid-row:2/3;
+    text-align: center;
 }
 
 .camping-card {
@@ -294,4 +295,13 @@ nav {
     footer {
         margin-top: 25px;
     }
+}
+
+.house {
+    display: flex;
+    
+}
+
+.pen {
+    display: flex;
 }
