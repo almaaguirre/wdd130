@@ -147,7 +147,7 @@ nav a {
 /* } */
 
 nav a:hover {
-    color: var(--nav-hover-link-color);
+    color: #e26d5c;
     background-color: var(--nav-hover-background-color);
 }
 
